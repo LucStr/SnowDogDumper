@@ -1,0 +1,11 @@
+{
+  "name": "snowdogdumper",
+  "version": "1.0.0",
+  "description": "This Application is built to dump Snowdog as soon as it hits it's giant buyback",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luca Strebel",
+  "license": "ISC"
+}
