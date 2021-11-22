@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Luca Strebel",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ethereum-input-data-decoder": "^0.3.5",
+    "moralis": "^0.0.134",
+    "node-fetch": "^3.1.0",
+    "web3": "^1.6.1"
+  },
+  "type": "module"
 }
